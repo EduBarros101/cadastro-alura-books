@@ -10,4 +10,4 @@ A proposta deste projeto consistia em adquirir e aplicar os novos conhecimentos 
 
 ## Página do Projeto
 
-🔗 [Cadastro Alura Books](https://edubarros101.github.io/cadastro-alura-books/){:target="\_blank"}
+🔗 [Cadastro Alura Books](https://edubarros101.github.io/cadastro-alura-books/)
